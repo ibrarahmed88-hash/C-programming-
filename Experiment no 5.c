@@ -1,5 +1,5 @@
 /*
-Name: ibrar ahmed 
+Name: IBRAR AHMED 
 UIN: 251M034
 Class: FE Mechanical Engineering
 Div: F
