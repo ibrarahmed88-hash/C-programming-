@@ -12,7 +12,7 @@ int main() {
     printf("Age: 18 yrs\n");
     printf("Class: FE Mechanical\n");
     printf("Division: F\n");
-    printf("UIN: 251M003\n");
+    printf("UIN: 251M034\n");
 
     return 0;
 }
