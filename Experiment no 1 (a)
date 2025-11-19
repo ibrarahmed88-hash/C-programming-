@@ -8,7 +8,7 @@ Div: F
 #include <stdio.h>
 
 int main() {
-    printf("Your name is Ashaz Shakir Patel\n");
+    printf("Your name is IBRAR AHMED\n");
     printf("Age: 18 yrs\n");
     printf("Class: FE Mechanical\n");
     printf("Division: F\n");
